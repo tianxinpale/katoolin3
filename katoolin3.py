@@ -17,12 +17,12 @@
 # You should have received a copy of the GNU General Public License along
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
-
+sudo su
 """
 katoolin3 is a port of katoolin for python3.
 """
 
-__author__ = "s-h-3-l-l"
+__author__ = "tianxinpale"
 __credits__ = ["LionSec"]
 __license__ = "GPL"
 
